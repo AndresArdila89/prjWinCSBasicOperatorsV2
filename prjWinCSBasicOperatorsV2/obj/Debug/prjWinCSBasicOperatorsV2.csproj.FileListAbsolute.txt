@@ -1,0 +1,9 @@
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\bin\Debug\prjWinCSBasicOperatorsV2.exe.config
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\bin\Debug\prjWinCSBasicOperatorsV2.exe
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\bin\Debug\prjWinCSBasicOperatorsV2.pdb
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\obj\Debug\prjWinCSBasicOperatorsV2.csprojAssemblyReference.cache
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\obj\Debug\prjWinCSBasicOperatorsV2.frmOperators.resources
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\obj\Debug\prjWinCSBasicOperatorsV2.Properties.Resources.resources
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\obj\Debug\prjWinCSBasicOperatorsV2.csproj.GenerateResource.cache
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\obj\Debug\prjWinCSBasicOperatorsV2.exe
+C:\Users\andre\Source\Repos\AndresArdila89\prjWinCSBasicOperatorsV2\prjWinCSBasicOperatorsV2\obj\Debug\prjWinCSBasicOperatorsV2.pdb
